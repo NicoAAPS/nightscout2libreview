@@ -42,7 +42,7 @@ food entries 132
 insulin entries 54
 transferLibreView, response undefined
 
-## Diff from lidabeta branch:
+## Diff from lisabeta branch:
 - delta days may contain any number of date backward from today to upload
 - commented out interactive part, only config.json required
 - added hardwareDescriptor,osVersion,hardwareName as config params
